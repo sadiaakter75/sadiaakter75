@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Three.js & python
 - 💬 Ask me about Full stack development
 - 📫 How to reach me: msg me on twitter-@AkterSadia85872
