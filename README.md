@@ -1,6 +1,6 @@
 ## Hi, I'm Sadia
 
-[![Twitter](https://img.shields.io/twitter/follow/sadia?style=social)](https://twitter.com/AkterSadia85872) [![LinkedIn](https://img.shields.io/badge/-sadia--akter-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-akter-8a484b3b7/) [![Facebook](https://img.shields.io/badge/-@ghumare64-000?style=flat-square&logo=facebook&logoColor=blue)](https://facebook.com/devSd55)
+[![Twitter](https://img.shields.io/twitter/follow/sadia?style=social)](https://twitter.com/AkterSadia85872) [![LinkedIn](https://img.shields.io/badge/-sadia--akter-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-akter-8a484b3b7/) [![Facebook](https://img.shields.io/badge/-@sadiaA-000?style=flat-square&logo=facebook&logoColor=blue)](https://facebook.com/devSd55)
 
 I build Interactive apps as a frontend developer.
 
